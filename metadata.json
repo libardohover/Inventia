@@ -1,0 +1,6 @@
+{
+  "name": "INVENTIA - Optimización de Inventarios",
+  "description": "Agente inteligente y motor analítico de inventarios para tiendas de abarrotes. Decide QUÉ, CUÁNTO, CUÁNDO comprar y POR QUÉ con base en datos reales de PostgreSQL y modelos ABC-XYZ, ROP y EOQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

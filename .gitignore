@@ -1,0 +1,22 @@
+# Dependencias y compilados
+node_modules/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Datos locales guardados por el servidor
+data/
+
+# Variables de entorno (contienen secretos)
+.env
+.env.*
+!.env.example
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea
